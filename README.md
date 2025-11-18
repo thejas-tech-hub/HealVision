@@ -1,5 +1,3 @@
-# Welcome to your Lovable project
-
 ## Project info
 
 **🩺 HealVision — AI-Powered Health Companion**
