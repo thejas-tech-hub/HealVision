@@ -1,4 +1,4 @@
-## Project info
+## Project info.
 
 **🩺 HealVision — AI-Powered Health Companion**
 Overview
